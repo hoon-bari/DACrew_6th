@@ -1,6 +1,8 @@
 # DACrew_6th
 
-[코드 페이지](https://dacon.io/competitions/official/236116/codeshare/8717?page=1&dtype=random)   
+노트북 파일을 올렸으나, 파일이 길어 Github에서는 렌더링이 안됩니다.   
+다운로드를 받아서 이용해주시거나,    
+옆에 데이콘 링크를 함께 올렸으니 데이콘에서 확인해주세요! [Notebook 파일 링크](https://dacon.io/competitions/official/236116/codeshare/8717?page=1&dtype=random)   
 
 데이크루 6기 3팀, 미도없는파라솔 팀의 병원 개・폐업 예측 파일입니다.    
   
